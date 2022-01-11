@@ -23,3 +23,7 @@
 * Retrive all the post from a user
 * Create a post from a user
 * Retrive details of a post
+
+
+
+note: no database is added
